@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\bin\Debug\netcoreapp3.1\Anup_Practice.exe
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\bin\Debug\netcoreapp3.1\Anup_Practice.deps.json
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\bin\Debug\netcoreapp3.1\Anup_Practice.runtimeconfig.json
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\bin\Debug\netcoreapp3.1\Anup_Practice.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\bin\Debug\netcoreapp3.1\Anup_Practice.dll
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\bin\Debug\netcoreapp3.1\Anup_Practice.pdb
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\obj\Debug\netcoreapp3.1\Anup_Practice.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\obj\Debug\netcoreapp3.1\Anup_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\obj\Debug\netcoreapp3.1\Anup_Practice.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\obj\Debug\netcoreapp3.1\Anup_Practice.AssemblyInfo.cs
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\obj\Debug\netcoreapp3.1\Anup_Practice.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\obj\Debug\netcoreapp3.1\Anup_Practice.dll
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\obj\Debug\netcoreapp3.1\Anup_Practice.pdb
+C:\Users\admin\source\repos\Anup_Practice\Anup_Practice\obj\Debug\netcoreapp3.1\Anup_Practice.genruntimeconfig.cache

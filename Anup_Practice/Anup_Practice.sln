@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anup_Practice", "Anup_Practice\Anup_Practice.csproj", "{3FECF2E5-8B55-4F48-9331-DE3D7E27FA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FECF2E5-8B55-4F48-9331-DE3D7E27FA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FECF2E5-8B55-4F48-9331-DE3D7E27FA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FECF2E5-8B55-4F48-9331-DE3D7E27FA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FECF2E5-8B55-4F48-9331-DE3D7E27FA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86FA88A5-F230-4E46-9DD7-2E57230EACDC}
+	EndGlobalSection
+EndGlobal
